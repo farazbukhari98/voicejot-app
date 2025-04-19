@@ -2,6 +2,7 @@
   "name": "voicejot-app",
   "version": "0.1.0",
   "private": true,
+  "description": "VoiceJot - Turn your voice into text notes with AI-powered transcription",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
